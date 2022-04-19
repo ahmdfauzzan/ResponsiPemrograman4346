@@ -1,0 +1,6 @@
+D:\Kuliah\Semester 2\Pemrograman\ResponsiPemrograman4346\ResponsiPemrograman4346\ResponsiPemrograman4346\bin\Debug\ResponsiPemrograman4346.exe.config
+D:\Kuliah\Semester 2\Pemrograman\ResponsiPemrograman4346\ResponsiPemrograman4346\ResponsiPemrograman4346\bin\Debug\ResponsiPemrograman4346.exe
+D:\Kuliah\Semester 2\Pemrograman\ResponsiPemrograman4346\ResponsiPemrograman4346\ResponsiPemrograman4346\bin\Debug\ResponsiPemrograman4346.pdb
+D:\Kuliah\Semester 2\Pemrograman\ResponsiPemrograman4346\ResponsiPemrograman4346\ResponsiPemrograman4346\obj\Debug\ResponsiPemrograman4346.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\ResponsiPemrograman4346\ResponsiPemrograman4346\ResponsiPemrograman4346\obj\Debug\ResponsiPemrograman4346.exe
+D:\Kuliah\Semester 2\Pemrograman\ResponsiPemrograman4346\ResponsiPemrograman4346\ResponsiPemrograman4346\obj\Debug\ResponsiPemrograman4346.pdb
